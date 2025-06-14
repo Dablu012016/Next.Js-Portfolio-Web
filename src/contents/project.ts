@@ -22,7 +22,7 @@ export const projects: Project[] = [
     title: 'Portfolio Website',
     description: 'My personal portfolio website showcasing my projects and skills.',
     technologies: ['Next.js', 'Tailwind CSS', 'JavaScript', 'Framer Motion'],
-    githubLink: 'https://github.com/Dablu012016/Next.Js-Portfolio-Web.git',
+    githubLink: 'https://github.com/Dablu012016/Next.Js-Portfolio-Web',
     demoLink: 'https://demo.com',
     image: '/projects/PortFolio.png',
   },
